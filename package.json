@@ -1,0 +1,7 @@
+{
+  "name": "picoapi",
+  "version": "1.0.0",
+  "dependencies": {
+    "imagekit": "^6.0.0"
+  }
+}
